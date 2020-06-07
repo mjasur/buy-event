@@ -1,0 +1,2 @@
+{"id":1,"client_id":1,"product":"Bread","price":2000}
+{"id":2,"client_id":2,"product":"Butter","price":9000}
